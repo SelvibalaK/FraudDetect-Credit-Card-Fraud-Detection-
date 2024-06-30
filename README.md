@@ -20,5 +20,3 @@ Explore the FraudDetect repository to access code, documentation, and datasets r
 - **models:** Serialized model files for deployment.
 - **spyder_projects:** Spyder IDE project files and analysis scripts.
 
-## Contributors:
-[Selvibala K]
